@@ -1,2 +1,4 @@
 /node_modules
 /config
+/events/.DS_Store
+.DS_Store

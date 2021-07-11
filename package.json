@@ -19,9 +19,13 @@
   "homepage": "https://github.com/Tyger117/bruh-sound-effect-2#readme",
   "dependencies": {
     "@discord-player/downloader": "^2.0.3",
+    "@discord-player/extractor": "^3.0.2",
+    "@discordjs/form-data": "^3.0.1",
     "@discordjs/opus": "^0.5.3",
     "discord-player": "^4.1.4",
     "discord.js": "^12.5.3",
-    "fs": "0.0.1-security"
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "ws": "^7.5.3"
   }
 }
