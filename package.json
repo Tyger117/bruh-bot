@@ -21,7 +21,7 @@
     "@discord-player/downloader": "^2.0.3",
     "@discord-player/extractor": "^3.0.2",
     "@discordjs/form-data": "^3.0.1",
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "discord-player": "^4.1.4",
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.4.0",
